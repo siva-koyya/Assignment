@@ -1,0 +1,28 @@
+/* styles.css */
+.app {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .product-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .product-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .sku-list {
+    margin-top: 10px;
+  }
+  
+  .sku-card {
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    margin-top: 10px;
+  }
+  
